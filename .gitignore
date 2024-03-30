@@ -1,0 +1,9 @@
+# Logs
+Logs
+*.log
+nmp-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Runtime data
